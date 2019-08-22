@@ -1,0 +1,1 @@
+<?php $cnc    = new helper\Connection(); ?>
